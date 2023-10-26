@@ -17,6 +17,7 @@ print(less5)
 
 """ Second extra """
 print(arr[arr<5])
+print( [ x for x in a if x<5 ] )
 
 """ Third extra """
 thress=int(input("Gimme a thresshold"))
